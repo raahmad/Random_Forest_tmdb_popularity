@@ -4,6 +4,10 @@
 ### Intro
 "Popularity is a very important metric on TMDB. It helps them boost search results, adds an incredibly useful sort value for discover, and is also just kind of fun to see items chart up and down". The purpose of this analysis is to predict the probability that a movie/show will have a tmdb popularity score in the 75th percentile or higher. This was accomplished through creating a pivot table in Microsoft Excel, data cleanining in RStudio, and running a random forest model in RStudio as well.
 
+https://developers.themoviedb.org/3/getting-started/popularity
+
+https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies
+
 ### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
