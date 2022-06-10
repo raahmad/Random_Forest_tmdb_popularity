@@ -58,6 +58,8 @@ str(model_df)
 
 #Create Training and Testing Set for Random Forest Model
 #Partition 80/20
+library(randomForest)
+require(caTools)
 sample = sample.split(model_df$third_quartile, SplitRatio = .8)
 train = subset(model_df, sample == TRUE)
 test  = subset(model_df, sample == FALSE)
