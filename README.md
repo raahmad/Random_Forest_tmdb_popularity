@@ -12,7 +12,7 @@ https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 1. Download and save all csv files, workbooks, and r script
-2. Open all csv files and workbooks with Microsft Excel
+2. Open all csv files and workbooks with Microsoft Excel
 3. Open hbo.r with RStudio
 4. Within RStudio, set working directory to wherever you completed step 1
 
